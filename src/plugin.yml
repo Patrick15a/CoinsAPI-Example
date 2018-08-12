@@ -1,0 +1,6 @@
+name: CoinsAPI-Example
+version: 1.0
+author: Patrick15a <patrick15a@myfilehost.de>
+depend: [CoinsAPI]
+
+Main: de.patrick15a.coinsAPI.example.Main

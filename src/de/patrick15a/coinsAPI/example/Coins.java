@@ -24,7 +24,7 @@ public class Coins {
 		return Main.getCoinsAPI().setCoins(p, coins);
 	}
 	
-	// Gibt zurück ob der Spieler "amount" Coins hat.
+	// Gibt zurück ob der Spieler x Coins hat.
 	public boolean has(Player p, int coins) {
 		return Main.getCoinsAPI().hasCoins(p, coins);
 	}

@@ -1,5 +1,5 @@
 name: CoinsAPI-Example
-version: 1.0
+version: 1.3
 author: Patrick15a <patrick15a@myfilehost.de>
 depend: [CoinsAPI]
 
